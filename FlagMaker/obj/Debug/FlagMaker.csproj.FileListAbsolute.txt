@@ -1,0 +1,14 @@
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\bin\Debug\FlagMaker.exe.config
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.csprojResolveAssemblyReference.cache
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.Form1.resources
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.Properties.Resources.resources
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.csproj.GenerateResource.Cache
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\bin\Debug\FlagMaker.exe
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\bin\Debug\FlagMaker.pdb
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.exe
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.pdb
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.NewLayerDialog.resources
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.StripeEditor.resources
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.ShapeEditor.resources
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.BaseEditor.resources
+C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.NewFlagDialog.resources
