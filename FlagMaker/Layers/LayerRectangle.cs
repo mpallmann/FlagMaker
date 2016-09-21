@@ -27,6 +27,15 @@ namespace FlagMaker
             this.Points.Add(new PointF(r.Right, r.Bottom));
         }
 
+        public override IEditor showSettings()
+        {
+            IEditor ret = base.showSettings();
+            ((ShapeEditor)ret).ChangePointAllowed = true;
+            ((ShapeEditor)ret).OrderPointAllowed = true;
+
+            return ret;
+        }
+
         public override void draw(System.Drawing.Graphics g, System.Drawing.SizeF scale, System.Drawing.PointF start)
         {
             if (Points.Count >= 2)

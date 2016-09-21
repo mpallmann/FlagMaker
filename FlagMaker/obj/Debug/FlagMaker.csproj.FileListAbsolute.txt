@@ -12,3 +12,6 @@ C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMa
 C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.ShapeEditor.resources
 C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.BaseEditor.resources
 C:\Users\mpallmann.DIAMOND\Documents\Visual Studio 2013\Projects\Personal\FlagMaker\FlagMaker\obj\Debug\FlagMaker.NewFlagDialog.resources
+C:\dev\git\FlagMaker\FlagMaker\bin\Debug\FlagMaker.exe.config
+C:\dev\git\FlagMaker\FlagMaker\obj\Debug\FlagMaker.exe
+C:\dev\git\FlagMaker\FlagMaker\obj\Debug\FlagMaker.pdb

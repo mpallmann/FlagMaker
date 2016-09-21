@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace FlagMaker
 {
-    public abstract class LayerShape : Layer
+    public class LayerShape : Layer
     {
 
         public List<PointF> Points { get; set; }
